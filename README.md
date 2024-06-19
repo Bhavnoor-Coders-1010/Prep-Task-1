@@ -1,5 +1,5 @@
 # Prep-Task-1
-Step 1: Install pygame
+Step 1: Install numpy and pygame
 
 Step 2: Run (The Pygame window will pop in the taskbar)
 
